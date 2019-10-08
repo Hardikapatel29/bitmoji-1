@@ -8,8 +8,8 @@ Examples:
 ![example2](https://render.bitstrips.com/v2/cpanel/10200827-280531978_5-s1-121464857_22-s1-v1.png?transparent=1&palette=1&width=200)
 ![example3](https://render.bitstrips.com/render/10220563/280531978_4-s1-v1.png?outfit=971785&head_rotation=1&body_rotation=7&cropped=%22body%22&width=200)
 
-* [friends](https://joshcheek.github.io/bitmoji/friends.html)
-* [individual](https://joshcheek.github.io/bitmoji/imoji.html)
+* [friends](https://hardikapatel29.github.io/bitmoji-1/harshil_hardika.html)
+* [individual](https://hardikapatel29.github.io/bitmoji-1/imoji.html)
 * [female outfits](https://joshcheek.github.io/bitmoji/female_outfits.html)
 * [male outfits](https://joshcheek.github.io/bitmoji/male_outfits.html)
 * [packs](https://joshcheek.github.io/bitmoji/packs.html)
@@ -17,7 +17,7 @@ Examples:
 
 I've discovered that there are additional comics, which aren't listed in the API output, eg: `10211795`
 
-![unicorn vs dragon](https://render.bitstrips.com/v2/cpanel/10211795-280531978_5-s1-280531978_4-s1-v1.png?transparent=1&palette=1&width=400)
+![unicorn vs dragon](https://render.bitstrips.com/v2/cpanel/10211795-99065246550_1-s5-331204332_8-s5-v1.png?transparent=1&palette=1&width=400)
 
 
 ## Avatars:
