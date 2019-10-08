@@ -4,9 +4,9 @@
 
 Examples:
 
-![example1](https://render.bitstrips.com/v2/cpanel/9188364-121464857_22-s1-v1.png?transparent=1&palette=1&width=200)
-![example2](https://render.bitstrips.com/v2/cpanel/10200827-280531978_5-s1-121464857_22-s1-v1.png?transparent=1&palette=1&width=200)
-![example3](https://render.bitstrips.com/render/10220563/280531978_4-s1-v1.png?outfit=971785&head_rotation=1&body_rotation=7&cropped=%22body%22&width=200)
+![example1](https://render.bitstrips.com/v2/cpanel/9188364-331204332_8-s5-v1.png?transparent=1&palette=1&width=200)
+![example2](https://render.bitstrips.com/v2/cpanel/10200827-99065246550_1-s5-331204332_8-s5-v1.png?transparent=1&palette=1&width=200)
+![example3](https://render.bitstrips.com/render/10220563/331204332_8-s5-v1.png?outfit=971785&head_rotation=1&body_rotation=7&cropped=%22body%22&width=200)
 
 * [friends](https://hardikapatel29.github.io/bitmoji-1/harshil_hardika.html)
 * [individual](https://hardikapatel29.github.io/bitmoji-1/imoji.html)
