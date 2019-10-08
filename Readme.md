@@ -10,10 +10,7 @@ Examples:
 
 * [friends](https://hardikapatel29.github.io/bitmoji-1/harshil_hardika.html)
 * [individual](https://hardikapatel29.github.io/bitmoji-1/imoji.html)
-* [female outfits](https://joshcheek.github.io/bitmoji/female_outfits.html)
-* [male outfits](https://joshcheek.github.io/bitmoji/male_outfits.html)
-* [packs](https://joshcheek.github.io/bitmoji/packs.html)
-* [find users](https://joshcheek.github.io/bitmoji/find-users.html)
+* [packs](https://hardikapatel29.github.io/bitmoji-1/packs.html)
 
 I've discovered that there are additional comics, which aren't listed in the API output, eg: `10211795`
 
