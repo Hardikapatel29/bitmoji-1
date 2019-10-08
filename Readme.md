@@ -19,35 +19,6 @@ I've discovered that there are additional comics, which aren't listed in the API
 
 ![unicorn vs dragon](https://render.bitstrips.com/v2/cpanel/10211795-99065246550_1-s5-331204332_8-s5-v1.png?transparent=1&palette=1&width=400)
 
-
-## Avatars:
-
-* Me:    `280531978_4-s1`
-* Yumin: `121464857_22-s1`
-* Gomez: `270452369_2-s1`
-* Blank male: `128256895_1-s1`
-* Blank female: `128257004_1_s1`
-* Others I've found `280231973_2`, `280531978_4-s1`, `121464857_22-s1`, `270452369_2-s1`, `128256895_1-s1`, `128257004_1_s1`,
-  `280231973_2-s1`, `270452367_2-s1`, `270452366_2-s1`, `270452365_2-s1`, `270452364_2-s1`, `270452363_2-s1`, `270452362_2-s1`,
-  `270452361_2-s1`, `270452360_2-s1`
-* Green dragon: `270451073_2-s1`, `270450925_2-s1`
-* Bat[wo]man: `270450967_2-s1`, `270452030_2-s1`, `270450911_2-s1`, `270451749_2-s1`, `270451703_2-s1`, `270451616_2-s1`, `270451604_2-s1`,
-* Cop/Firefighter: `270450972_2-s1`, `270450905_2-s1`, `270450191_2-s1`, `270450192_2-s1`, `270451684_2-s1`, `270451489_2-s1`, `270451452_2-s1`, `270451390_2-s1`
-* Super [wo]man: `270450921_2-s1`, `270450882_2-s1`, `270450409_2-s1`, `270452142_2-s1`, `270451964_2-s1`, `270451919_2-s1`, `270451865_2-s1`, `270451784_2-s1`, `270451541_2-s1`
-* Nonhuman skin: `270450203_2-s1`, `270451848_2-s1`, `270451727_2-s1`
-* Animals: `270452315_2-s1`, `270452243_2-s1`, `270452261_2-s1`, `270451988_2-s1`, `270451764_2-s1`, `270451420_2-s1`, `270451416_2-s1`, `270451361_2-s1`
-* This dude looks like David Chilemsky: `270452220_2-s1`
-* Xena: `270452149_2-s1`, `270451899_2-s1`, `270451562_2-s1`
-* Devil: `270451885_2-s1`
-* Nuclear: `270451814_2-s1`
-
-
-You can find other users with the `find-users.html` page.
-The number between the underscore seems to be about which version of that person being rendered into that pose,
-eg if they change their bitmoji, then the suffix will increment. I'm not sure what the `s1` or the `v1` are about,
-I've seen as high as `v3`, but it doesn't seem to change anything when I edit that piece.
-
-
 ## Making sense of the data
 
 * Individual comics are in .imoji (1117 of them) replace the `%s` with an avatar id
